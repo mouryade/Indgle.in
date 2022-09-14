@@ -106,3 +106,13 @@ section button:hover{
     cursor: pointer;
 }
 
+@media screen and (max-width: 770px){
+    .search-bar input{
+        font-size: 15px;
+    }
+    .search-bar button{
+        display: block;
+        margin: 20px auto;
+        size: 10px;
+    }
+}
