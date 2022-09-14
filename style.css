@@ -115,4 +115,8 @@ section button:hover{
         margin: 20px auto;
         size: 10px;
     }
+    .container{
+        background-image: linear-gradient(rgba(35, 40, 66, 0.9),rgba(36, 52, 59, 0.9)),url('./Logo1.jpg');
+        background-size: contain;
+    }
 }
